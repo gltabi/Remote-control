@@ -1,3 +1,20 @@
+Nov 3, 2016
+
+most updated config file:
+
+arris2_master3.conf
+
+use 
+
+control.py
+
+to send commands
+
+key mappings numbers to button names contained in 
+
+key_mapping.py
+
+--------------------------------------------------------
 # Remote-control
 config files and scripts 
 
